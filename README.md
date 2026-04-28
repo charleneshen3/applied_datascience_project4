@@ -38,6 +38,7 @@ applied_datascience_project4/
 │
 └── ShinyApp/
     └── step2_shinyapp.R
+```
 
 ---
 
