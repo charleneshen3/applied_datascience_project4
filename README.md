@@ -41,10 +41,11 @@ applied_datascience_project4/
 
 ---
 
-**## Team Members**
+## Team Members
 
-Nikhil Shanbhag (nvs2128)
-Charlene Shen (xs2546)
-Shreya Amalapurapu (sa4342)
-Yifan Wang (yw4663)
+- Nikhil Shanbhag (nvs2128)
+- Charlene Shen (xs2546)
+- Shreya Amalapurapu (sa4342)
+- Yifan Wang (yw4663)
 
+---
